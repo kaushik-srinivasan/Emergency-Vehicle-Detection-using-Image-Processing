@@ -28,7 +28,7 @@ CWD_PATH = os.getcwd()
   
 # Path to frozen detection graph .pb file, which contains the model that is used 
 # for object detection. 
-PATH_TO_CKPT = 'fine_tuned_model/frozen_inference_graph.pb'
+PATH_TO_CKPT = 'frozen_inference_graph.pb'
 #PATH_TO_CKPT = 'frozen_inference_graph.pb'
   
 # Path to label map file 
